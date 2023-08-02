@@ -1,0 +1,33 @@
+body{
+	background-color: skyblue;
+	background-image: center;
+	
+
+}
+
+img{
+
+	width: 25%;
+	border-radius: 50%;
+	box-shadow: 0 0 10px 5px ;
+}
+h1{
+
+	color: orange;
+	text-shadow: 0 0 10px black, 0 0 10px blue;
+}
+
+
+input{
+	font-size: 20px;
+	border: 0;
+	padding: 10px;
+}
+input[type="submit"]{
+	background-color: green;
+	
+	color: black;
+	
+}
+
+
